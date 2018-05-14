@@ -1,0 +1,33 @@
+{
+      "userId": "100000077",
+      "userName": "admin",
+      "userPwd": "123456",
+      "tel": "13312345678",
+      "Depart": "总部",
+      "Position": "超级管理员",
+      "access": "0",
+      "name": "卢秋洋"
+ }
+{
+      "userId": "100000078",
+      "userName": "wjg",
+      "userPwd": "123456",
+      "tel": "13212345678",
+      "Depart": "报告部",
+      "Position": "报告部长",
+      "access": "1",
+      "name": "王佳归"
+}
+{
+      "userId": "100000079",
+      "userName": "root",
+      "userPwd": "123456",
+      "tel": "13112345678",
+      "Depart": "支援部",
+      "Position": "支援部部长",
+      "access": "2",
+      "name": "jakie"
+}
+
+
+
